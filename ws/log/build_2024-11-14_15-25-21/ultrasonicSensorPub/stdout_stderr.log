@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/PKG-INFO
+writing dependency_links to ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/dependency_links.txt
+writing entry points to ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/entry_points.txt
+writing requirements to ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/requires.txt
+writing top-level names to ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/top_level.txt
+reading manifest file '../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/SOURCES.txt'
+writing manifest file '../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ultrasonicSensorPub/ultrasonicSensorPub.py -> /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build/lib/ultrasonicSensorPub
+running install
+running install_lib
+copying /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build/lib/ultrasonicSensorPub/ultrasonicSensorPub.py -> /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub
+byte-compiling /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub/ultrasonicSensorPub.py to ultrasonicSensorPub.cpython-310.pyc
+running install_data
+copying package.xml -> /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/share/ultrasonicSensorPub
+running install_egg_info
+removing '/home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info to /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub-0.0.0-py3.10.egg-info
+running install_scripts
+Installing usp script to /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/ultrasonicSensorPub
+writing list of installed files to '/home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/install.log'

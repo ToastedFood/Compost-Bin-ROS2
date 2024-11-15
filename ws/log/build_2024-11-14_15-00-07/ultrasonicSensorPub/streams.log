@@ -1,0 +1,37 @@
+[0.522s] Invoking command in '/home/mhatami/Compost-Bin-ROS2/ws/src/ultrasonicSensorPub': PYTHONPATH=/home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ultrasonicSensorPub build --build-base /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build install --record /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/install.log --single-version-externally-managed install_data
+[0.683s] running egg_info
+[0.683s] creating ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info
+[0.683s] writing ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/PKG-INFO
+[0.684s] writing dependency_links to ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/dependency_links.txt
+[0.684s] writing entry points to ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/entry_points.txt
+[0.684s] writing requirements to ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/requires.txt
+[0.684s] writing top-level names to ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/top_level.txt
+[0.684s] writing manifest file '../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/SOURCES.txt'
+[0.686s] reading manifest file '../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/SOURCES.txt'
+[0.686s] writing manifest file '../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info/SOURCES.txt'
+[0.686s] running build
+[0.686s] running build_py
+[0.686s] creating /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build
+[0.687s] creating /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build/lib
+[0.687s] creating /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build/lib/ultrasonicSensorPub
+[0.687s] copying ultrasonicSensorPub/ultrasonicSensorPub.py -> /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build/lib/ultrasonicSensorPub
+[0.687s] copying ultrasonicSensorPub/__init__.py -> /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build/lib/ultrasonicSensorPub
+[0.687s] running install
+[0.687s] running install_lib
+[0.688s] creating /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub
+[0.688s] copying /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build/lib/ultrasonicSensorPub/ultrasonicSensorPub.py -> /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub
+[0.688s] copying /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build/lib/ultrasonicSensorPub/__init__.py -> /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub
+[0.688s] byte-compiling /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub/ultrasonicSensorPub.py to ultrasonicSensorPub.cpython-310.pyc
+[0.689s] byte-compiling /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub/__init__.py to __init__.cpython-310.pyc
+[0.689s] running install_data
+[0.689s] creating /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/share/ament_index
+[0.689s] creating /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/share/ament_index/resource_index
+[0.689s] creating /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/share/ament_index/resource_index/packages
+[0.690s] copying resource/ultrasonicSensorPub -> /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/share/ament_index/resource_index/packages
+[0.690s] copying package.xml -> /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/share/ultrasonicSensorPub
+[0.690s] running install_egg_info
+[0.691s] Copying ../../build/ultrasonicSensorPub/ultrasonicSensorPub.egg-info to /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages/ultrasonicSensorPub-0.0.0-py3.10.egg-info
+[0.691s] running install_scripts
+[0.706s] Installing usp script to /home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/ultrasonicSensorPub
+[0.706s] writing list of installed files to '/home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/install.log'
+[0.724s] Invoked command in '/home/mhatami/Compost-Bin-ROS2/ws/src/ultrasonicSensorPub' returned '0': PYTHONPATH=/home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mhatami/Compost-Bin-ROS2/ws/install/ultrasonicSensorPub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ultrasonicSensorPub build --build-base /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/build install --record /home/mhatami/Compost-Bin-ROS2/ws/build/ultrasonicSensorPub/install.log --single-version-externally-managed install_data

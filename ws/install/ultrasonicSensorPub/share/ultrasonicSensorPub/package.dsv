@@ -1,0 +1,6 @@
+source;share/ultrasonicSensorPub/hook/pythonpath.ps1
+source;share/ultrasonicSensorPub/hook/pythonpath.dsv
+source;share/ultrasonicSensorPub/hook/pythonpath.sh
+source;share/ultrasonicSensorPub/hook/ament_prefix_path.ps1
+source;share/ultrasonicSensorPub/hook/ament_prefix_path.dsv
+source;share/ultrasonicSensorPub/hook/ament_prefix_path.sh
